@@ -1,0 +1,279 @@
+body{
+        background-color: #1E252D;
+        color: white;
+
+}
+
+h1{
+        font-family: fantasy;
+
+}
+
+
+h2{
+        color: #58A8B1;
+        font-family: fantasy;
+
+}
+
+p{
+        font-family: sans-serif;
+}
+
+td{
+        padding:5px;
+}
+
+
+.page-header{
+        color: #58A8B1;
+        text-align: center;
+}
+
+
+                                /*  article */
+
+.field-name-field-image{
+        max-width: 100%;
+        height: auto;
+
+}
+
+
+                                /* navigation */
+.navbar{
+        background-color: #1E252D;
+        border-bottom: solid 4px #58A8B1;
+        margin-top: 0;
+        font-family: monospace;
+}
+
+
+.navbar-nav i {
+        margin:5px;
+}
+
+.leaf:hover{
+        background-color: #58A8B1;
+}
+
+
+.navbar-inverse .navbar-brand{
+        color: white;
+}
+
+.navbar-inverse .navbar-brand:hover{
+        color: #58A8B1;
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a{
+        color: white;
+
+}
+
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+        background-color: #58A8B1;
+        color: white;
+
+}
+
+
+                                /* social media */
+
+
+.social-icon p {
+        margin: 0;
+}
+
+.social-icon p a {
+        margin-left: 5px;
+        font-size: 35px;
+        color: white;
+}
+
+.social-icon p a:hover{
+      color:#58A8B1 ;
+}
+
+                                /* footer */
+
+.footer{
+        margin-top:  50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        /*background-color: #58A8B1;
+        border: none;*/
+        border-top:none;
+        border-bottom:#58A8B1 solid 4px ;
+}
+
+
+footer a {
+        color:#fff;
+}
+
+
+                                /* Buttons */
+
+.btn-primary{
+        background-color: transparent;
+        border:#58A8B1 solid 1px;
+        color:#58A8B1;
+        border-radius: 20px;
+        font-family: monospace;
+}
+
+.btn-primary:hover{
+        background-color: #58A8B1;
+        color: white;
+}
+
+
+
+
+
+
+.btn-default{
+        background-color: transparent;
+        border:#58A8B1 solid 1px;
+        color:#58A8B1;
+        border-radius: 20px;
+        font-family: monospace;
+}
+.btn-default:hover{
+        background-color: #58A8B1;
+        color: white;
+        border:#58A8B1 solid 1px;
+}
+
+
+
+
+
+                        /* contact  */
+
+.page-header{
+        border:none;
+}
+
+
+.grippie{
+        display:none;
+}
+
+
+/*
+
+.form-control{
+        border-radius: 5px 5px 0 0;
+        background-color: transparent;
+        color: #58A8B1;
+        border: #58A8B1 1px solid;
+
+}
+
+
+
+.resizable-textarea textarea{
+        border-radius: 5px 5px 0 0;
+        background-color: transparent;
+        color: #58A8B1;
+        border: #58A8B1 1px solid;
+
+}
+
+*/
+
+
+.form-control{
+        border-radius: 5px 5px 0 0;
+        background-color: transparent;
+        color: whitesmoke;
+
+}
+
+
+
+.resizable-textarea textarea{
+        border-radius: 5px 5px 0 0;
+        background-color: transparent;
+        color: white;
+
+
+}
+
+
+.control-label{
+        color: #58A8B1;
+
+}
+
+
+
+
+                        /* portfolio  */
+
+
+.thumbnail{
+        border-color: #58A8B1;
+        color: white;
+        background-color: transparent;
+        border-radius: 0px;
+        border:none;
+}
+
+.thumbnail .caption{
+        color: white;
+        text-align: center;
+}
+
+h3{
+        font-family: fantasy;
+        text-align: center;
+        text-decoration: none;
+}
+
+h3>a{
+        color:#58A8B1;
+        text-align: center;
+        text-decoration: none;
+}
+
+h3>a:hover{
+        color: white;
+        text-decoration: none;
+        text-align: center;
+
+}
+
+
+
+                          /* portfolio items */
+
+.text-fix p{
+        margin-left: 22%;
+        margin-right: 22%;
+        margin-top: 2%;
+        text-align: center;
+}
+
+
+
+p .text-fix {
+        margin-left: 22%;
+        margin-right: 22%;
+        margin-top: 2%;
+        text-align: center;
+}
+
+
+
+/* about papge */
+
+.field .field-label{
+        display:none;
+
+}
